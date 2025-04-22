@@ -1,7 +1,7 @@
 # FlipperZero-Subghz-DB
 A curated and the largest collection of Sub-GHz files for the Flipper Zero device — for educational and research purposes only.
 
-📁 23,477 Files | 📂 1,189 Folders
+📁 13,875 Files | 📂 721 Folders
 This massive archive is built to make exploring Sub-GHz signals with your Flipper Zero easier, faster, and more accessible.
 
 # Disclaimer:  
